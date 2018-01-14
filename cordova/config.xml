@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.de.nomad.tabris.hello_world_js" version="0.1.0">
+  <name>Hello World JS</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="sa@nomad.de">
+    Samy Abou-Shama
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+  <plugin name="cordova-plugin-ble-central" spec=""https://github.com/samynomad/cordova-plugin-ble-central.git />
+
+</widget>
