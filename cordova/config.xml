@@ -8,6 +8,5 @@
     Samy Abou-Shama
   </author>
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
-  <plugin name="cordova-plugin-ble-central" spec="https://github.com/samynomad/cordova-plugin-ble-central.git" />
-
+  <plugin name="cordova-plugin-ble-central" spec="1.1.4" />
 </widget>
