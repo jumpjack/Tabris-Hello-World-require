@@ -1,7 +1,7 @@
 {
   "name": "de.nomad.tabris.hello_world_js",
   "version": "0.2.0",
-  "main": "src/app.js",
+  "main": "src/app.ts",
   "private": true,
   "scripts": {
     "test": "eslint .",
