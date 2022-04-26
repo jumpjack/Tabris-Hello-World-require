@@ -1,6 +1,6 @@
 {
   "name": "de.nomad.tabris.hello_world_js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "src/app.js",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "tabris serve"
   },
   "dependencies": {
-    "tabris": "^2.3.0",
+    "tabris": "^3.8.0",
     "atob": "2.0.3"
   },
   "devDependencies": {
