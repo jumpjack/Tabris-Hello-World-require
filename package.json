@@ -4,14 +4,12 @@
   "main": "dist/app.js",
   "private": true,
   "scripts": {
-     "build": "tsc -p .",
-    "watch": "tsc -p . -w --preserveWatchOutput",
-    "start": "tabris serve -a -w",
     "test": "eslint .",
     "start": "tabris serve"
   },
   "dependencies": {
     "tabris": "^3.8.0",
+    "tabris-decorators" : "latest",
     "atob": "2.0.3"
   },
   "devDependencies": {
