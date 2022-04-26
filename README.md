@@ -1,19 +1,12 @@
-# de.nomad.tabris.hello_world_js
+# Tabris Hellow World compile test 1
 
-## Run
+Fork di https://github.com/BenitoJedai/Tabris-Hello-World-js
 
-In the project directory, run the [Tabris CLI](https://www.npmjs.com/package/tabris-cli) command:
+Utilizza "require" invece di import.
 
-```
-tabris serve
-```
+Repo originale mi si compila.
 
-This will start a JavaScript app code server at a free port and print its URL to the console.
-
-The JavaScript app code can be [side-loaded](https://tabrisjs.com/documentation/2.0/developer-app.html#the-developer-console) in the [developer app](https://tabrisjs.com/documentation/2.0/developer-app.html) if the default config.xml was not changed. Otherwise, the JavaScript app code must be side-loaded in a [debug build](https://tabrisjs.com/documentation/2.0/build.html#building-a-tabrisjs-app) of this app.
-
-## Build
-
-The app can be built using the online build service at [tabrisjs.com](https://tabrisjs.com) or locally using [Tabris.js CLI](https://www.npmjs.com/package/tabris-cli).
-
-See [Building a Tabris.js App](https://tabrisjs.com/documentation/2.0/build.html) for more information.
+Provo a sostituire solo app.js col mio file, cambiando riga iniziale da "import" a require.
+ - Compilazione:
+ - Installazione:
+ - Esecuzione:
